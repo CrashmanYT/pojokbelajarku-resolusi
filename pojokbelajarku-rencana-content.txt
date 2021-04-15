@@ -4,5 +4,6 @@ RENCANA KONTEN POJOKBELAJARKU
   * Dasar
   * OOP
   * Generic
+  * Newtonesoft JSON
 - Belajar HTML
  * Dasar
