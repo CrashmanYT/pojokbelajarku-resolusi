@@ -1,4 +1,7 @@
 RENCANA KONTEN POJOKBELAJARKU
 
 - Belajar C#
+  * Dasar
+  * OOP
+  * Generic
 - Belajar HTML
